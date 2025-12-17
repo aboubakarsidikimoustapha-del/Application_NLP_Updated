@@ -1,0 +1,19 @@
+# Caches Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Fichiers de log
+*.log
+
+# Environnements virtuels
+.venv/
+venv/
+env/
+
+# Fichiers d'environnement
+.env
+
+# Fichiers Streamlit
+.streamlit/
